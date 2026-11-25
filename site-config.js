@@ -1,0 +1,1 @@
+window.MANCHANG_CONFIG = {"apiOrigin":"https://manchang-video-api.manchang-video-directory.workers.dev","publicSiteUrl":"https://znz836033-cyber.github.io/manchang-videos/","cloudflareAnalyticsToken":""};
